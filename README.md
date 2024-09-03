@@ -1,6 +1,7 @@
-name: Potato Disease Classification Using CNN
-description: |
-  This project implements a Convolutional Neural Network (CNN) for classifying potato leaf images into three categories: **Early Blight**, **Late Blight**, and **Healthy**. Achieved impressive performance with **98% validation accuracy** and **94% test accuracy**. The model is designed for real-time disease detection to support effective agricultural management.
+# Potato Disease Classification Using CNN
+
+## Description
+This project implements a Convolutional Neural Network (CNN) to classify potato leaf images into three categories: **Early Blight**, **Late Blight**, and **Healthy**. The model achieves **98% validation accuracy** and **94% test accuracy**, making it highly effective for real-time disease detection. This tool supports improved agricultural management by accurately identifying potato leaf diseases.
 
   ## Technologies Used
   - **TensorFlow**: Framework for building and training the CNN model.
