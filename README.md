@@ -22,14 +22,13 @@ This project implements a Convolutional Neural Network (CNN) to classify potato 
   To run this project:
   1. Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/potato-disease-classification.git
+     git clone https://github.com/anandbatchala/potatoleaf_disease_classifier.git
      ```
   2. Navigate to the project directory and set up the environment:
      ```bash
-     cd potato-disease-classification
+     cd potatoleaf_disease_classification
      conda create --name potato-disease python=3.8
      conda activate potato-disease
-     pip install -r requirements.txt
      ```
   3. Place the PlantVillage dataset in the `data` directory.
   4. Run the provided Jupyter Notebook or Python script to train and evaluate the model.
